@@ -15,11 +15,19 @@ form {
 img {border:none;}
 
 h1 {
-    font:20px/21px verdana,sans-serif;
+    font: 28px verdana,sans-serif;
     font-weight: bold;
     color:#581D74;
     margin:0 0 4px 0;
 }
+
+h2 {
+    font: 21px verdana,sans-serif;
+    font-weight: bold;
+    color:#581D74;
+    margin:0 0 4px 0;
+}
+
 
 
 div.linha-divisoria { background-color:#581D74 ;margin-top: 10px; margin-bottom: 10px; height:5px;  }
